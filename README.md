@@ -149,8 +149,8 @@ http://127.0.0.1:7860
 
 ## Author
 
-**Harshit**
+**Tanuj**
 
-BCA Student | AI & Data Science Enthusiast
+BCA Student 
 
-Passionate about building AI-powered applications and exploring machine learning technologies.
+An AI/ML enthusiast passionate about building intelligent solutions using Python and Deep Learning
